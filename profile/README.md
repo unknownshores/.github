@@ -1,25 +1,29 @@
 # Unknown Shores
 
-Unknown Shores is an original fantasy campaign setting and growing creative Studio centered on long-form worldbuilding, tabletop roleplaying, historical creative preservation, and experimental tools for bringing the setting to life.
+**GET LOST in Unknown Shores**
 
-## Explore
+Unknown Shores is an original fantasy setting and creative Studio built around long-form worldbuilding, tabletop roleplaying, historical creative preservation, and the tools that bring these stories to life.
 
-- Official site: https://www.unknownshoresrpg.com
-- Living world and current canon: https://www.worldanvil.com/w/unknownshoresrpg
-- Support the project: https://ko-fi.com/unknownshores
+## Explore the world
 
-## GitHub
+- [Start here](https://unknownshoresrpg.com/start-here) for a guided introduction.
+- [Living canon on World Anvil](https://www.worldanvil.com/w/unknownshoresrpg) for current setting articles and lore.
+- [Commissioned artwork and gallery](https://unknownshoresrpg.com/gallery) to meet the world through its artists.
+- [Ask Entaris](https://ask.unknownshoresrpg.com/) for the public lore reader. Its answers should be checked against cited, published articles.
 
-This organization contains several different kinds of repositories:
+## Work with or support the Studio
 
-- public historical/reference repositories;
-- private backup and disaster-recovery infrastructure;
-- private creative-archive and provenance tooling;
-- project-specific repositories;
-- deliberately unused or demo repositories.
+- [Unknown Shores Studio](https://unknownshoresrpg.com/work) for creative work, projects, and professional inquiries.
+- [Official merchandise shop](https://unknownshores-shop.fourthwall.com/) for currently available items.
+- [Ko-fi](https://ko-fi.com/unknownshores) for optional support.
 
-A GitHub repository is not automatically the current authority for the material it contains.
+## GitHub and source authority
 
-For Unknown Shores lore, **World Anvil remains the living canon authority**.
+This organization includes historical public repositories alongside private operational repositories and recovery tooling. A repository is **not automatically** the current canon or a publicly released version.
 
-For Studio execution and historical recovery, the private Creative Works Archive control plane defines current authority and workflow boundaries.
+- **World Anvil** remains the living authority for setting lore.
+- **UnknownShoresRPG.com** is the visitor and Studio gateway.
+- **Private Studio repositories** maintain recovery, operations, and implementation evidence.
+- Historical repositories are retained for provenance, not represented as the current site or setting.
+
+Private campaign material, backups, GM knowledge, and unreleased content are not available through this public profile.
