@@ -11,6 +11,18 @@ Unknown Shores is an original fantasy setting and creative Studio built around l
 - [Commissioned artwork and gallery](https://unknownshoresrpg.com/gallery) to meet the world through its artists.
 - [Ask Entaris](https://ask.unknownshoresrpg.com/) for the public lore reader. Its answers should be checked against cited, published articles.
 
+## Free tools for players
+
+- [Mobile Field Guide](https://unknownshoresrpg.com/mobile) for public dice, initiative and player resources.
+- [Initiative Tracker](https://unknownshoresrpg.com/mobile/initiative) for encounter turns, conditions and optional on-device recovery. Player data stays in the browser unless the player chooses to download it.
+- [Player backup and recovery](https://unknownshoresrpg.com/mobile/backup) for locally managed journal and game-night records.
+
+## Press and media
+
+- [Public press kit](https://unknownshoresrpg.com/press/kit) for a concise, source-linked introduction and media contact routes.
+- [Download the public fact sheet (PDF)](https://unknownshoresrpg.com/press/unknown-shores-public-fact-sheet.pdf).
+- [Download the press kit (ZIP)](https://unknownshoresrpg.com/press/unknown-shores-press-kit.zip), containing the fact sheet, Markdown source and usage notes. No third-party images, logos or fonts are redistributed in the bundle.
+
 ## Work with or support the Studio
 
 - [Unknown Shores Studio](https://unknownshoresrpg.com/work) for creative work, projects, and professional inquiries.
